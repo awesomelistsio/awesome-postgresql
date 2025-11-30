@@ -68,6 +68,7 @@
 - [pgPool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - A middleware for PostgreSQL that provides connection pooling and load balancing.
 - [Bucardo](https://bucardo.org/Bucardo/) - A multi-master replication system for PostgreSQL.
 - [Citus](https://www.citusdata.com/) - A distributed database solution for scaling PostgreSQL horizontally.
+- [Spock](https://github.com/pgEdge/spock) - Logical multi-master PostgreSQL replication.
 
 ## Data Modeling and Schema Design
 
