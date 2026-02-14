@@ -33,6 +33,7 @@
 - [SQLAlchemy](https://www.sqlalchemy.org/) - A Python SQL toolkit and ORM that supports PostgreSQL.
 - [Diesel](https://diesel.rs/) - A safe and extensible ORM and query builder for Rust, supporting PostgreSQL.
 - [ActiveRecord PostgreSQL Adapter](https://guides.rubyonrails.org/active_record_postgresql.html) - The PostgreSQL adapter for Ruby on Rails.
+- [BlackVault](https://github.com/venkat22022202/black-vault) - An open-source proxy gateway for managing AI API keys, with AES-256-GCM encryption, cost tracking, and instant revocation, built on Neon Postgres and Drizzle ORM.
 
 ## GUI Tools
 
